@@ -24,7 +24,6 @@
   📧 Connect with me:
 </h3>
 <div align='center'>
-  <a href="https://www.linkedin.com/in/noahww/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a> &nbsp;
   <a href="https://www.instagram.com/nyprog/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
 </div>
 
