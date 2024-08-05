@@ -8,12 +8,10 @@
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
   <p align="center" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,styledcomponents,prisma,mysql,git" alt"Tech Stack logos">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mysql,git" alt"Tech Stack logos">
   </p>
    <br>
    <br>
-  <h3>Tools that I use</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github">
 </div>
 
 &nbsp;
