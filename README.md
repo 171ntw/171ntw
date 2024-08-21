@@ -41,10 +41,21 @@
 &nbsp;
 &nbsp;
 
-<div align= 'center'>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=noahwx&show_icons=true&count_private=true&hide_border=true&title_color=6e72fc&icon_color=6e72fc&text_color=c9d1d9&bg_color=0d1117" alt="Github stats noahwx" /> &nbsp;
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahwx&layout=compact&hide_border=true&title_color=6e72fc&text_color=6e72fc&bg_color=0d1117" alt="Language stats Noahwx" />
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=noahwx&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahwx&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding=0;width=100%;">
+      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=noahwx&theme=tokyo-night&custom_title=Noahwx%20Contribution%20Graph" />
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 &nbsp;
