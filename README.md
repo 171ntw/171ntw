@@ -8,7 +8,7 @@
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
   <p align="center" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git" alt"Tech Stack logos">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,python,java,php,rust,go,c,cpp,ruby,kotlin,dart,swift,solidity,bash,tailwind,graphql,docker,mysql,mongodb,postgresql,firebase" alt"Tech Stack logos">
   </p>
    <br>
    <br>
