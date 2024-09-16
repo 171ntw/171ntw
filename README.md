@@ -22,9 +22,6 @@
   📧 Connect with me:
 </h3>
 
-<div align='center'>
-  <a href="https://www.instagram.com/nyprog/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-</div>
 <p align="center">
   <a href="https://discord.com/users/1266387274199990408">
     <img src="https://lanyard.cnrad.dev/api/1266387274199990408" alt="Discord Presence">
